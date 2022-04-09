@@ -21,5 +21,3 @@ You can download release version [here](https://github.com/happyjongsoft/2DVoxel
 
 ### Creator
 Email [happy.jong.soft@gmail.com](mailto:happy.jong.soft@gmail.com)
-Twitter [happyjongsoft](https://twitter.com/happyjongsoft)
-Linkedin [linkedin](https://www.linkedin.com/in/phonpanom-sivilay-0093b4237/)
